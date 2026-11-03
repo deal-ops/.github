@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/deal-ops/.github/main/assets/deal-ops-logo.png" width="64" height="64" alt="Deal Ops logo" />
+<img src="https://raw.githubusercontent.com/deal-ops/.github/main/assets/deal-ops-logo-square.png" width="64" height="64" alt="Deal Ops logo" />
 
 # Deal Ops
 
