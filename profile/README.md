@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/deal-ops/.github/main/assets/vegeta-logo.png" width="100" height="100" alt="Vegeta logo" />
+<img src="https://raw.githubusercontent.com/deal-ops/.github/main/assets/vegeta-logo-square.png" width="100" height="100" alt="Vegeta logo" />
 
 # Vegeta
 
