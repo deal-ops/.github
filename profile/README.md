@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/deal-ops/.github/main/assets/vegeta-logo-square.png" width="100" height="100" alt="Vegeta logo" />
+<img src="https://raw.githubusercontent.com/vegeta-labs/.github/main/assets/vegeta-logo-square.png" width="100" height="100" alt="Vegeta logo" />
 
 # Vegeta
 
@@ -10,8 +10,8 @@ Software for SPV and syndicate operations teams, and the fund administration tea
 
 | Product | What it does | Release and links |
 |---|---|---|
-| [**Goten — Deal Calculations**](https://github.com/deal-ops/deal-ops-toolkit) | Reconcile payments, calculate closing allocations and split exit proceeds. Deal data stays in your browser. | [v1.2.3](https://github.com/deal-ops/deal-ops-toolkit/releases/tag/v1.2.3) · [open the app](https://deal-ops-toolkit.vercel.app/) · [product overview](https://vegeta-ops.vercel.app/toolkit/) |
-| [**Trunks — Operations Inbox**](https://github.com/deal-ops/deal-ops-inbox) | A self-hosted, read-only email agent: classify, extract fields, link imported records, flag risk and prepare fixed-template replies for a person to review, copy and send. | [v0.2.1](https://github.com/deal-ops/deal-ops-inbox/releases/tag/v0.2.1) · [online read-only demo](https://vegeta-ops.vercel.app/inbox/demo/) · [product overview](https://vegeta-ops.vercel.app/inbox/) |
+| [**Goten — Deal Calculations**](https://github.com/vegeta-labs/goten) | Reconcile payments, calculate closing allocations and split exit proceeds. Deal data stays in your browser. | [v1.2.3](https://github.com/vegeta-labs/goten/releases/tag/v1.2.3) · [open the app](https://deal-ops-toolkit.vercel.app/) · [product overview](https://vegeta-ops.vercel.app/toolkit/) |
+| [**Trunks — Operations Inbox**](https://github.com/vegeta-labs/trunks) | A self-hosted, read-only email agent: classify, extract fields, link imported records, flag risk and prepare fixed-template replies for a person to review, copy and send. | [v0.2.1](https://github.com/vegeta-labs/trunks/releases/tag/v0.2.1) · [online read-only demo](https://vegeta-ops.vercel.app/inbox/demo/) · [product overview](https://vegeta-ops.vercel.app/inbox/) |
 
 ## Principles
 
