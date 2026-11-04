@@ -1,25 +1,23 @@
-<img src="https://avatars.githubusercontent.com/u/350029139?s=200&amp;v=4" width="100" height="100" alt="Deal Ops logo" />
+<img src="https://raw.githubusercontent.com/deal-ops/.github/main/assets/vegeta-logo.png" width="100" height="100" alt="Vegeta logo" />
 
-# Deal Ops
+# Vegeta
 
-Open-source tools for SPV and syndicate deal operations: the work between "investors committed" and "money paid out", done to the penny and checked at every step.
+Software for SPV and syndicate operations teams, and the fund administration teams supporting them.
 
-[Website](https://deal-ops-toolkit-site.vercel.app) · [Toolkit](https://deal-ops-toolkit-site.vercel.app/toolkit/) · [Inbox](https://deal-ops-toolkit-site.vercel.app/inbox/)
+[Website](https://vegeta-ops.vercel.app/) · [Goten — Deal Calculations](https://vegeta-ops.vercel.app/toolkit/) · [Trunks — Operations Inbox](https://vegeta-ops.vercel.app/inbox/)
 
-## Projects
+## Products
 
-| Project | What it does | Status |
+| Product | What it does | Release and links |
 |---|---|---|
-| [**Deal Ops Toolkit**](https://github.com/deal-ops/deal-ops-toolkit) | A browser tool for SPV deal operations: match bank receipts to commitments, work out the closing allocation, and split exit proceeds with carry and a hurdle. Deal data stays in your browser. | Working prototype · [open the app](https://deal-ops-toolkit.vercel.app) · [website](https://deal-ops-toolkit-site.vercel.app/toolkit/) |
-| [**Deal Ops Inbox**](https://github.com/deal-ops/deal-ops-inbox) | A self-hosted, read-only email agent for investment-operations inboxes: it classifies each email, extracts the key facts, links it to your directory, flags risk and drafts a reply from a fixed template for a person to review, copy and send. It never sends email. | v0.1.1 · [online demo](https://deal-ops-toolkit-site.vercel.app/inbox/demo/) · [website](https://deal-ops-toolkit-site.vercel.app/inbox/) · [release notes](https://github.com/deal-ops/deal-ops-inbox/releases/tag/v0.1.1) |
-
-More components will be listed here when they are released.
+| [**Goten — Deal Calculations**](https://github.com/deal-ops/deal-ops-toolkit) | Reconcile payments, calculate closing allocations and split exit proceeds. Deal data stays in your browser. | [v1.2.3](https://github.com/deal-ops/deal-ops-toolkit/releases/tag/v1.2.3) · [open the app](https://deal-ops-toolkit.vercel.app/) · [product overview](https://vegeta-ops.vercel.app/toolkit/) |
+| [**Trunks — Operations Inbox**](https://github.com/deal-ops/deal-ops-inbox) | A self-hosted, read-only email agent: classify, extract fields, link imported records, flag risk and prepare fixed-template replies for a person to review, copy and send. | [v0.2.1](https://github.com/deal-ops/deal-ops-inbox/releases/tag/v0.2.1) · [online read-only demo](https://vegeta-ops.vercel.app/inbox/demo/) · [product overview](https://vegeta-ops.vercel.app/inbox/) |
 
 ## Principles
 
-- **Money is exact.** Integer minor units and exact arithmetic; no floating point.
-- **Every number explains itself.** Each result shows where it came from, and every calculation checks itself.
-- **People decide.** Tools suggest; a person confirms anything that moves money or changes a record.
-- **Independent checks.** Key calculations are cross-checked against a second, separately written implementation.
+- **Money is exact.** Integer minor units and exact arithmetic.
+- **Calculations explain themselves.** Results show their inputs and checks.
+- **People decide.** Neither product sends email or moves money. Trunks never changes business records or applies emailed bank details; emailed payment confirmations never count as money received.
+- **Independent checks.** Key calculations are cross-checked against a separately written implementation.
 
 Not affiliated with any platform. Sample data is fictional.
